@@ -31,6 +31,11 @@ This study aims to:
     - Coverage 1993-2023
 3. Ocean Biodiversity Information System
     - Source: https://obis.org/?query=ocean+conservation
+4. NASA Earth Data
+   - Source: https://www.earthdata.nasa.gov/topics/ocean
+   - Content: 
+   - Coverage:
+   - Scope: 
     
 
 ## References
