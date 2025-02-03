@@ -48,8 +48,7 @@ This study aims to:
    - Scope: Global Level Data
 
 2. Ocean Acidification Activities in the Pacific
-   - Source: https://pacificdata.org/data/dataset/oai-www-spc-int-e5ab73dd-f50d-455a-b970- 
-     60e42f57cc85
+   - Source: https://www.ncei.noaa.gov/products/ocean-carbon-acidification-data-system
    - Content: A map showing the nations and areas where ocean acidification is occurring, along 
     with the recipients, tools, and techniques of the Global Ocean Acidification Observing 
     Network Kit
@@ -65,9 +64,7 @@ This study aims to:
     
 
 ## References
-<a id="1">[1]</a> United Nations. (n.d.). Goal 14: Life below water. United Nations. Retrieved January 31, 2025, from https://sdgs.un.org/goals/goal14
-
-<a id="2">[2]</a>	The Global Goals. (n.d.). Goal 14: Life below water. The Global Goals. Retrieved January 31, 2025, from https://www.globalgoals.org/goals/goal-14/https://sdgs.un.org/topics/oceans-and-seas
+<a id="1">[1]</a> Goal 14 | Department of Economic and Social Affairs. https://sdgs.un.org/goals/goal14
 
 <a id="3">[3]</a> Roser, M., & Ritchie, H. (2020, August 20). Life below water – Sustainable Development Goal 14. Our World in Data https://ourworldindata.org/sdgs/life-below-water
 
