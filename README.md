@@ -8,20 +8,20 @@ Goal 14 of the UN Sustainable Development Goals aims to protect oceans, seas, an
 ## Key performance indicators
 1.	Marine Pollution Reduction
 - Index of coastal eutrophication; and plastic debris density
-Target: By 2025, prevent and drastically reduce marine pollution of all kinds, especially from land-based activities, such as nutrient pollution and marine debris.
+- Target: By 2025, prevent and drastically reduce marine pollution of all kinds, especially from land-based activities, such as nutrient pollution and marine debris.
 
 2.	Ecosystem Restoration 
 - Is the number of countries using ecosystem-based approaches to managing marine areas.
-Target: To achieve healthy and productive oceans by 2030, marine and coastal ecosystems must be managed and protected sustainably to prevent major negative effects, including by enhancing their resilience. Restoration efforts must also be taken.
+- Target: To achieve healthy and productive oceans by 2030, marine and coastal ecosystems must be managed and protected sustainably to prevent major negative effects, including by enhancing their resilience. Restoration efforts must also be taken.
 
 3.	Ocean Acidity Reduction
 - Average marine acidity (pH) measured at agreed suite of representative sampling stations, A pH of less than 7 means that a substance is acidic, lower values indicate greater acidity.
-Target: By 2030, reduce and mitigate the effects of ocean acidification, especially by strengthening collaboration among scientists at all levels.
+- Target: By 2030, reduce and mitigate the effects of ocean acidification, especially by strengthening collaboration among scientists at all levels.
 
 4.	Research resources for Marine technology
 - Is the proportion of total research budget allocated to research in the field of marine technology.
-Target: By 2030, enhancing ocean health in developing nations, particularly Small Island Developing States (SIDS) and Least Developed Countries (LDCs), requires boosting scientific knowledge, building research capacity, and transferring marine technology for sustainable resource use and international cooperation.
+- Target: By 2030, enhancing ocean health in developing nations, particularly Small Island Developing States (SIDS) and Least Developed Countries (LDCs), requires boosting scientific knowledge, building research capacity, and transferring marine technology for sustainable resource use and international cooperation.
 
 5.	Support for Small Scale fishers
 - Degree of application of a legal/regulatory/policy/institutional framework which recognises and protects access rights for small scale fisheries.
-Target: By 2030, provide small-scale artisanal fishermen access to markets and marine resources.
+- Target: By 2030, provide small-scale artisanal fishermen access to markets and marine resources.
