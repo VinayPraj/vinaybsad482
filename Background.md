@@ -41,28 +41,32 @@ This study aims to:
 ## Potential Datasets
 
 1.	World Ocean Database
+   
    - Source: https://www.ncei.noaa.gov/products/world-ocean-database
-   - Content:Extensive oceanic information, encompassing biological parameters, pressure, 
+   - Content: Extensive oceanic information, encompassing biological parameters, pressure, 
      oxygen, temperature, and salinity.
    - Coverage:1960-2023
    - Scope: Global Level Data
 
 2. Ocean Acidification Activities in the Pacific
+
    - Source: https://www.ncei.noaa.gov/products/ocean-carbon-acidification-data-system
    - Content: A map showing the nations and areas where ocean acidification is occurring, along 
-    with the recipients, tools, and techniques of the Global Ocean Acidification Observing 
-    Network Kit
+     with the recipients, tools, and techniques of the Global Ocean Acidification Observing 
+     Network Kit.
    - Coverage: Last Updated 2023
    - Scope: Regional
 
 3. Seasonal Climatologies of the Northeast Pacific Ocean
+
    - Source: https://open.canada.ca/data/en/dataset/b2992072-0dca-452a-ac3e-b62176362bf4
    - Content: Climate data for Canada, including monthly averages for temperature, 
-     precipitation, and other weather-related variables
+     precipitation, and other weather-related variables.
    - Coverage: 1980-2010
    - Scope: Country wide Data
     
 ## References
+
 <a id="1">[1]</a> Goal 14 | Department of Economic and Social Affairs. https://sdgs.un.org/goals/goal14
 
 <a id="2">[2]</a>What is Ocean Acidification?. https://oceanservice.noaa.gov/facts/acidification.html
