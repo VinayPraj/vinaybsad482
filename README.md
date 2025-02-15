@@ -1,5 +1,6 @@
 # Protection of Oceans, Seas, and Marine Resources for Sustainable Development
 
+*By: Vinay Prajapati*
 ## Executive Summary
 Goal 14 of the UN Sustainable Development Goals aims to protect oceans, seas, and marine resources. Oceans cover 70% of Earth, regulating climate, providing food, and supporting jobs. However, pollution, overfishing, habitat loss, and climate change threaten these ecosystems, which many vulnerable communities depend on. Protecting them is crucial for both ecological and economic stability.
 
@@ -7,9 +8,12 @@ Goal 14 of the UN Sustainable Development Goals aims to protect oceans, seas, an
 
 ## Key Performance Indicators
 1.	Marine Pollution Reduction
-- The Index of coastal eutrophication; and plastic waste cleaned from oceans.
-- Target: By 2025, prevent and drastically reduce marine pollution of all kinds, especially from land-based activities, such as nutrient pollution and marine 
+  - <mark>Consider adding a value statement for each KPI, this demonstrates you see the broader picture, for example:  Addressing marine pollution supports the sustainability of fisheries by protecting fish stocks and aquatic habitats, ensuring that fishing communities can thrive economically while maintaining ecological integrity.
+  - The Index of coastal eutrophication; and plastic waste cleaned from oceans.
+  - Target: By 2025, prevent and drastically reduce marine pollution of all kinds, especially from land-based activities, such as nutrient pollution and marine 
   debris.
+  - <mark>Range: 1-999?<mark>
+  - <mark>Frequency: Annual?<mark>
 
 2.	Ecosystem Restoration 
 - The number of countries using ecosystem-based approaches to managing marine areas.
@@ -27,5 +31,5 @@ Goal 14 of the UN Sustainable Development Goals aims to protect oceans, seas, an
   boosting scientific knowledge, building research capacity, and transferring marine technology for sustainable resource use and international cooperation.
 
 5.	Support for Small Scale fishers
-- A framework which recognises and protects access rights for small scale fisheries.
+- A framework which recognizes and protects access rights for small scale fisheries.
 - Target: By 2030, provide small-scale artisanal fishermen access to markets and marine resources.
