@@ -33,3 +33,11 @@ Goal 14 of the UN Sustainable Development Goals aims to protect oceans, seas, an
 5.	Support for Small Scale fishers
 - A framework which recognizes and protects access rights for small scale fisheries.
 - Target: By 2030, provide small-scale artisanal fishermen access to markets and marine resources.
+
+# Analysis
+
+## Area Protected by Country
+
+![European Countries Protecting Oceans](Presentation/AreaProtectedByCountry.png)
+
+Tell a story here, france has the highest protected area of european countries. 
