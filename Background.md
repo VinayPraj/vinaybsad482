@@ -40,30 +40,26 @@ This study aims to:
 
 ## Potential Datasets
 
-1.	World Ocean Database
+1.	Surface of Marine Protected Areas Dataset
    
-   - Source: https://www.ncei.noaa.gov/products/world-ocean-database
-   - Content: Extensive oceanic information, encompassing biological parameters, pressure, 
-     oxygen, temperature, and salinity.
-   - Coverage: 1960-2023
-   - Scope: Global Level Data
+   - Source: https://ec.europa.eu/eurostat/databrowser/view/sdg_14_10/default/table?lang=en&category=sdg.sdg_14
+   - Content: A map showing EU marine waters and countries with the most and least protected areas.
+   - Coverage: 2013-2020
+   - Scope: European Region
 
-2. Ocean Acidification Activities in the Pacific
+2. Ocean Acidification Dataset
 
-- Source: https://www.ncei.noaa.gov/products/ocean-carbon-acidification-data-system
-- Content: A map showing the nations and areas where ocean acidification is occurring, along 
-     with the recipients, tools, and techniques of the Global Ocean Acidification Observing 
-     Network Kit.
-- Coverage: Last Updated 2023
-- Scope: Regional
+- Source: https://ec.europa.eu/eurostat/databrowser/view/sdg_14_50/default/table?lang=en&category=sdg.sdg_14
+- Content: Data showing the decline in PH level with data on a gobal level.
+- Coverage: 2003-2022
+- Scope: Global Level Data
 
-3. Seasonal Climatologies of the Northeast Pacific Ocean
+3. Fish Stock Dataset
 
-- Source: https://open.canada.ca/data/en/dataset/b2992072-0dca-452a-ac3e-b62176362bf4
-- Content: Climate data for Canada, including monthly averages for temperature, 
-  precipitation, and other weather-related variables.
-- Coverage: 1980-2010
-- Scope: Country wide Data
+- Source: https://ec.europa.eu/eurostat/databrowser/view/sdg_14_21/default/table?lang=en&category=sdg.sdg_14
+- Content: Data showing the status of fish stock in the European Union Region.
+- Coverage: 2013=2022
+- Scope: European Union Region
     
 ## References
 
