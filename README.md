@@ -39,5 +39,6 @@ Goal 14 of the UN Sustainable Development Goals aims to protect oceans, seas, an
 ## Area Protected by Country
 
 ![Picture](Presentation/fig1.png)
+![Picture](Presentation/fig2.png)
 
 Tell a story here, france has the highest protected area of european countries. 
