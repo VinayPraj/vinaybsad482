@@ -40,5 +40,8 @@ Goal 14 of the UN Sustainable Development Goals aims to protect oceans, seas, an
 
 ![Picture](Presentation/fig1.png)
 ![Picture](Presentation/fig2.png)
+![Picture](Presentation/fig3.png)
+![Picture](Presentation/fig4.png)
+![Picture](Presentation/fig5.png)
 
 
