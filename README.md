@@ -2,7 +2,7 @@
 
 *By: Vinay Prajapati*
 ## Executive Summary
-Goal 14 of the UN Sustainable Development Goals aims to protect oceans, seas, and marine resources. Oceans cover 70% of Earth, regulating climate, providing food, and supporting jobs. However, pollution, overfishing, habitat loss, and climate change threaten these ecosystems, which many vulnerable communities depend on. Protecting them is crucial for both ecological and economic stability. For this research my focus will be on data from the region of Europe.
+Goal 14 of the UN Sustainable Development Goals aims to protect oceans, seas, and marine resources. Oceans cover 70% of Earth, regulating climate, providing food, and supporting jobs. However, pollution, overfishing, habitat loss, and climate change threaten these ecosystems, which many vulnerable communities depend on. Protecting them is crucial for both ecological and economic stability. For this research my focus will be on data from the European Region.
 
 [Read detailed background](Background.md)
 
@@ -39,7 +39,7 @@ Goal 14 of the UN Sustainable Development Goals aims to protect oceans, seas, an
 ## Area Protected by Country
 
 ![Picture](Presentation/fig1.png)
-This image illustrates that France has the most protected areas of all of Europe.
+The above image illustrates that France has the most protected areas of all of Europe.
 
 ![Picture](Presentation/fig2.png)
 ![Picture](Presentation/fig3.png)
