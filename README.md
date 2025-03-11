@@ -7,6 +7,7 @@ Goal 14 of the UN Sustainable Development Goals aims to protect oceans, seas, an
 [Read detailed background](Background.md)
 
 ## Key Performance Indicators
+
 1.	Marine Pollution Reduction
   -Addressing marine pollution supports the sustainability of fisheries by protecting fish stocks and aquatic habitats, ensuring that fishing communities can thrive economically while maintaining ecological integrity.
   - The Index of coastal eutrophication; and plastic waste cleaned from oceans.
@@ -36,14 +37,24 @@ Goal 14 of the UN Sustainable Development Goals aims to protect oceans, seas, an
 
 # Analysis
 
-## Area Protected by Country
+## Countries with the most Protected Surface Area
 
 ![Picture](Presentation/fig1.png)
-The above image illustrates that France has the most protected areas of all of Europe.
+The above image illustrates that France has the most protected surface areas in Europe compared to other countries.
 
+## Global PH Level
 ![Picture](Presentation/fig2.png)
-![Picture](Presentation/fig3.png)
-![Picture](Presentation/fig4.png)
-![Picture](Presentation/fig5.png)
+The above line grapgh shows that the PH level has been steadily declining from 1985 to 2022. This means the acidity level of the water has been increasing slowly in the European Regions.
 
+## Countries with Clean Coastal Water
+![Picture](Presentation/fig3.png)
+According to the data analyzed as illustrated above it shows Cyprus as the country with the most clean water from 2011 to 2023 with an average higher than other countries through out this period.
+
+## Fish Stock with Sustainable levels
+![Picture](Presentation/fig4.png)
+The line grapgh above shows Fish stock on a rapid decline form 2003 to 2022 from the Atlantic, NorthEast and Mediterranean and Black Sea.
+ 
+## Marine Pollution
+![Picture](Presentation/fig5.png)
+The region with the most marine pollution is Jordan which is indicated by the larger circle according to the world data from 2005 to 2022.
 
