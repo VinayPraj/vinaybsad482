@@ -8,37 +8,40 @@ Goal 14 of the UN Sustainable Development Goals aims to protect oceans, seas, an
 
 ## Key Performance Indicators
 
-1.	Marine Pollution Reduction
-  -Addressing marine pollution supports the sustainability of fisheries by protecting fish stocks and aquatic habitats, ensuring that fishing communities can thrive economically while maintaining ecological integrity.
-  - The Index of coastal eutrophication; and plastic waste cleaned from oceans.
-  - Target: By 2025, prevent and drastically reduce marine pollution of all kinds, especially from land-based activities, such as nutrient pollution and marine 
-  debris.
-  - <mark>Range: 1-999?<mark>
-  - <mark>Frequency: Annual?<mark>
+1. Marine Protected Area Coverage Rate
+- This KPI addresses identifies the protected areas based on the region which help to know the most and least protected regions in Europe.
+- Target: To prevent and significantly reduce marine pollution in particular land-based activities by 2025.
+- Frequnecy: Annually 
 
-2.	Ecosystem Protection
-- The number of countries using ecosystem-based approaches to managing marine areas.
-- Target: To achieve healthy and productive oceans by 2030, marine and coastal ecosystems must be managed and protected sustainably to prevent major negative 
-  effects, including by enhancing their resilience. Restoration efforts must also be taken.
-
-3.	Ocean Acidity Reduction
-- Average marine acidity (pH) measured at agreed suite of representative sampling stations, A pH of less than 7 means that a substance is acidic, lower values 
-  indicate greater acidity.
+2. Ocean Acidity Reduction
+- Addressing ocean acidity is important as the more marine waters become acidic it will harm aquatic life and lead to destroying of life under water.
+- The decline in the pH level  means the marine water is getting more acidic and the invrease in the pH level would mean less acid in the water.
 - Target: By 2030, reduce and mitigate the effects of ocean acidification, especially by strengthening collaboration among scientists at all levels.
+- Frequency: Annually
 
-4.	Research resources for Marine technology
-- Is the proportion of total research budget allocated to research in the field of marine technology.
-- Target: By 2030, enhancing ocean health in developing nations, particularly Small Island Developing States (SIDS) and Least Developed Countries (LDCs), requires 
-  boosting scientific knowledge, building research capacity, and transferring marine technology for sustainable resource use and international cooperation.
+3. Water Quality
+- Addressing this KPI is crucial to know the quality of water and how clean it is and wheather it is harming the auqatic life or not underwater.
+- This helps us classify the inland and marine bathing waters as poor, good or excellent.
+-Range: 1%-100%
+- Frequency: Annual
 
-5.	Support for Small Scale fishers
-- A framework which recognizes and protects access rights for small scale fisheries.
-- Target: By 2030, provide small-scale artisanal fishermen access to markets and marine resources.
+4. Sustainable levels of Fish Stock
+-  This KPI helps informs us of the amount of fish stock and species avaialble for sustainable fishing w=as overfishing will lead to extinction of some species.
+-  Target: To regukate the level of fishing and end illegal, overfishing and unregulated fishing and poor fishing practices by 2030.
+-  Frequnecy: Annual
+
+6.	Marine Pollution Reduction
+-Addressing marine pollution supports the sustainability of fisheries by protecting fish stocks and aquatic habitats, ensuring that fishing communities can thrive economically while maintaining ecological 
+  integrity.
+- The Index of coastal eutrophication; and plastic waste cleaned from oceans.
+- Target: By 2025, prevent and drastically reduce marine pollution of all kinds, especially from land-based activities, such as nutrient pollution and marine 
+  debris.
+  - Range: 1%-100%
+  - Frequency: Annual
 
 # Analysis
 
 ## Countries with the most Protected Surface Area
-
 ![Picture](Presentation/fig1.png)
 The above image illustrates that France has the most protected surface areas in Europe compared to other countries.
 
