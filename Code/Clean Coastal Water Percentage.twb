@@ -1,0 +1,876 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20243.25.0114.1153                               -->
+<workbook original-version='18.1' source-build='2024.3.3 (20243.25.0114.1153)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AnimationOnByDefault />
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='Clean coastal water percentage' inline='true' name='federated.03zpsfu1ajgoh41clpxy202lbsmr' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Clean coastal water percentage' name='textscan.0vmftzu0jwuwss159n5lq0eskh7p'>
+            <connection class='textscan' directory='D:/BSAD482/Term Project Data Analysis/Clean Coastal Water Percentage.twb Files/Data/Term Project Data Analysis' filename='Clean coastal water percentage.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation name='Pivot' type='pivot'>
+          <columns>
+            <column datatype='string' name='Pivot Field Names' />
+            <column datatype='real' name='Pivot Field Values' />
+          </columns>
+          <tag name='Pivot Field Names'>
+            <value name='[Albania]' />
+            <value name='[Austria]' />
+            <value name='[Belgium]' />
+            <value name='[Bulgaria]' />
+            <value name='[Croatia]' />
+            <value name='[Cyprus]' />
+            <value name='[Czechia]' />
+            <value name='[Denmark]' />
+            <value name='[Estonia]' />
+            <value name='[Finland]' />
+            <value name='[France]' />
+            <value name='[Germany]' />
+            <value name='[Greece]' />
+            <value name='[Hungary]' />
+            <value name='[Iceland]' />
+            <value name='[Ireland]' />
+            <value name='[Italy]' />
+            <value name='[Kosovo*]' />
+            <value name='[Latvia]' />
+            <value name='[Lithuania]' />
+            <value name='[Luxembourg]' />
+            <value name='[Malta]' />
+            <value name='[Montenegro]' />
+            <value name='[Netherlands]' />
+            <value name='[North Macedonia]' />
+            <value name='[Norway]' />
+            <value name='[Poland]' />
+            <value name='[Portugal]' />
+            <value name='[Romania]' />
+            <value name='[Serbia]' />
+            <value name='[Slovakia]' />
+            <value name='[Slovenia]' />
+            <value name='[Spain]' />
+            <value name='[Sweden]' />
+            <value name='[Switzerland]' />
+            <value name='[United Kingdom]' />
+          </tag>
+          <groups>
+            <group name='Pivot Field Values'>
+              <field name='[Clean coastal water percentage.csv].[Albania]' />
+              <field name='[Clean coastal water percentage.csv].[Austria]' />
+              <field name='[Clean coastal water percentage.csv].[Belgium]' />
+              <field name='[Clean coastal water percentage.csv].[Bulgaria]' />
+              <field name='[Clean coastal water percentage.csv].[Croatia]' />
+              <field name='[Clean coastal water percentage.csv].[Cyprus]' />
+              <field name='[Clean coastal water percentage.csv].[Czechia]' />
+              <field name='[Clean coastal water percentage.csv].[Denmark]' />
+              <field name='[Clean coastal water percentage.csv].[Estonia]' />
+              <field name='[Clean coastal water percentage.csv].[Finland]' />
+              <field name='[Clean coastal water percentage.csv].[France]' />
+              <field name='[Clean coastal water percentage.csv].[Germany]' />
+              <field name='[Clean coastal water percentage.csv].[Greece]' />
+              <field name='[Clean coastal water percentage.csv].[Hungary]' />
+              <field name='[Clean coastal water percentage.csv].[Iceland]' />
+              <field name='[Clean coastal water percentage.csv].[Ireland]' />
+              <field name='[Clean coastal water percentage.csv].[Italy]' />
+              <field name='[Clean coastal water percentage.csv].[Kosovo*]' />
+              <field name='[Clean coastal water percentage.csv].[Latvia]' />
+              <field name='[Clean coastal water percentage.csv].[Lithuania]' />
+              <field name='[Clean coastal water percentage.csv].[Luxembourg]' />
+              <field name='[Clean coastal water percentage.csv].[Malta]' />
+              <field name='[Clean coastal water percentage.csv].[Montenegro]' />
+              <field name='[Clean coastal water percentage.csv].[Netherlands]' />
+              <field name='[Clean coastal water percentage.csv].[North Macedonia]' />
+              <field name='[Clean coastal water percentage.csv].[Norway]' />
+              <field name='[Clean coastal water percentage.csv].[Poland]' />
+              <field name='[Clean coastal water percentage.csv].[Portugal]' />
+              <field name='[Clean coastal water percentage.csv].[Romania]' />
+              <field name='[Clean coastal water percentage.csv].[Serbia]' />
+              <field name='[Clean coastal water percentage.csv].[Slovakia]' />
+              <field name='[Clean coastal water percentage.csv].[Slovenia]' />
+              <field name='[Clean coastal water percentage.csv].[Spain]' />
+              <field name='[Clean coastal water percentage.csv].[Sweden]' />
+              <field name='[Clean coastal water percentage.csv].[Switzerland]' />
+              <field name='[Clean coastal water percentage.csv].[United Kingdom]' />
+            </group>
+          </groups>
+          <relation connection='textscan.0vmftzu0jwuwss159n5lq0eskh7p' name='Clean coastal water percentage.csv' table='[Clean coastal water percentage#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_IN' separator=','>
+              <column datatype='date' date-parse-format='yyyy' name='TIME' ordinal='0' />
+              <column datatype='real' name='European Union - 27 countries (from 2020)' ordinal='1' />
+              <column datatype='string' name='European Union - 28 countries (2013-2020)' ordinal='2' />
+              <column datatype='real' name='Belgium' ordinal='3' />
+              <column datatype='real' name='Bulgaria' ordinal='4' />
+              <column datatype='string' name='Czechia' ordinal='5' />
+              <column datatype='real' name='Denmark' ordinal='6' />
+              <column datatype='real' name='Germany' ordinal='7' />
+              <column datatype='real' name='Estonia' ordinal='8' />
+              <column datatype='real' name='Ireland' ordinal='9' />
+              <column datatype='real' name='Greece' ordinal='10' />
+              <column datatype='real' name='Spain' ordinal='11' />
+              <column datatype='real' name='France' ordinal='12' />
+              <column datatype='real' name='Croatia' ordinal='13' />
+              <column datatype='real' name='Italy' ordinal='14' />
+              <column datatype='real' name='Cyprus' ordinal='15' />
+              <column datatype='real' name='Latvia' ordinal='16' />
+              <column datatype='real' name='Lithuania' ordinal='17' />
+              <column datatype='string' name='Luxembourg' ordinal='18' />
+              <column datatype='string' name='Hungary' ordinal='19' />
+              <column datatype='real' name='Malta' ordinal='20' />
+              <column datatype='real' name='Netherlands' ordinal='21' />
+              <column datatype='string' name='Austria' ordinal='22' />
+              <column datatype='real' name='Poland' ordinal='23' />
+              <column datatype='real' name='Portugal' ordinal='24' />
+              <column datatype='real' name='Romania' ordinal='25' />
+              <column datatype='real' name='Slovenia' ordinal='26' />
+              <column datatype='string' name='Slovakia' ordinal='27' />
+              <column datatype='real' name='Finland' ordinal='28' />
+              <column datatype='real' name='Sweden' ordinal='29' />
+              <column datatype='string' name='Iceland' ordinal='30' />
+              <column datatype='string' name='Norway' ordinal='31' />
+              <column datatype='string' name='Switzerland' ordinal='32' />
+              <column datatype='string' name='United Kingdom' ordinal='33' />
+              <column datatype='string' name='Montenegro' ordinal='34' />
+              <column datatype='string' name='North Macedonia' ordinal='35' />
+              <column datatype='string' name='Albania' ordinal='36' />
+              <column datatype='string' name='Serbia' ordinal='37' />
+              <column datatype='string' name='Kosovo*' ordinal='38' />
+            </columns>
+          </relation>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Clean coastal water percentage.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;₹&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_IN&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>TIME</remote-name>
+            <remote-type>7</remote-type>
+            <local-name>[TIME]</local-name>
+            <parent-name>[Clean coastal water percentage.csv]</parent-name>
+            <remote-alias>TIME</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[Clean coastal water percentage.csv_CB37B8BEE9F1467C8CE81B0841CC40C2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>European Union - 27 countries (from 2020)</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[European Union - 27 countries (from 2020)]</local-name>
+            <parent-name>[Clean coastal water percentage.csv]</parent-name>
+            <remote-alias>European Union - 27 countries (from 2020)</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Clean coastal water percentage.csv_CB37B8BEE9F1467C8CE81B0841CC40C2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>European Union - 28 countries (2013-2020)</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[European Union - 28 countries (2013-2020)]</local-name>
+            <parent-name>[Clean coastal water percentage.csv]</parent-name>
+            <remote-alias>European Union - 28 countries (2013-2020)</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[Clean coastal water percentage.csv_CB37B8BEE9F1467C8CE81B0841CC40C2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Pivot Field Names</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Pivot Field Names]</local-name>
+            <parent-name>[Pivot]</parent-name>
+            <remote-alias>Pivot Field Names</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Clean coastal water percentage.csv_CB37B8BEE9F1467C8CE81B0841CC40C2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Pivot Field Values</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Pivot Field Values]</local-name>
+            <parent-name>[Pivot]</parent-name>
+            <remote-alias>Pivot Field Values</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Clean coastal water percentage.csv_CB37B8BEE9F1467C8CE81B0841CC40C2]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='real' name='[European Union - 27 countries (from 2020)]' role='measure' type='quantitative' />
+      <column datatype='string' hidden='true' name='[European Union - 28 countries (2013-2020)]' role='dimension' type='nominal' />
+      <column caption='European Countries' datatype='string' name='[Pivot Field Names]' role='dimension' type='nominal' />
+      <column caption='Percentage' datatype='real' name='[Pivot Field Values]' role='dimension' type='ordinal' />
+      <column caption='Date' datatype='date' name='[TIME]' role='dimension' type='quantitative' />
+      <column caption='Clean coastal water percentage.csv' datatype='table' name='[__tableau_internal_object_id__].[Clean coastal water percentage.csv_CB37B8BEE9F1467C8CE81B0841CC40C2]' role='measure' type='quantitative' />
+      <column-instance column='[European Union - 27 countries (from 2020)]' derivation='Avg' name='[avg:European Union - 27 countries (from 2020):qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Pivot Field Values]' derivation='Avg' name='[avg:Pivot Field Values:qk]' pivot='key' type='quantitative' />
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.03zpsfu1ajgoh41clpxy202lbsmr].[avg:European Union - 27 countries (from 2020):qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.03zpsfu1ajgoh41clpxy202lbsmr].[avg:Pivot Field Values:qk]&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Canada&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='Clean coastal water percentage.csv' id='Clean coastal water percentage.csv_CB37B8BEE9F1467C8CE81B0841CC40C2'>
+            <properties context=''>
+              <relation name='Pivot' type='pivot'>
+                <columns>
+                  <column datatype='string' name='Pivot Field Names' />
+                  <column datatype='real' name='Pivot Field Values' />
+                </columns>
+                <tag name='Pivot Field Names'>
+                  <value name='[Albania]' />
+                  <value name='[Austria]' />
+                  <value name='[Belgium]' />
+                  <value name='[Bulgaria]' />
+                  <value name='[Croatia]' />
+                  <value name='[Cyprus]' />
+                  <value name='[Czechia]' />
+                  <value name='[Denmark]' />
+                  <value name='[Estonia]' />
+                  <value name='[Finland]' />
+                  <value name='[France]' />
+                  <value name='[Germany]' />
+                  <value name='[Greece]' />
+                  <value name='[Hungary]' />
+                  <value name='[Iceland]' />
+                  <value name='[Ireland]' />
+                  <value name='[Italy]' />
+                  <value name='[Kosovo*]' />
+                  <value name='[Latvia]' />
+                  <value name='[Lithuania]' />
+                  <value name='[Luxembourg]' />
+                  <value name='[Malta]' />
+                  <value name='[Montenegro]' />
+                  <value name='[Netherlands]' />
+                  <value name='[North Macedonia]' />
+                  <value name='[Norway]' />
+                  <value name='[Poland]' />
+                  <value name='[Portugal]' />
+                  <value name='[Romania]' />
+                  <value name='[Serbia]' />
+                  <value name='[Slovakia]' />
+                  <value name='[Slovenia]' />
+                  <value name='[Spain]' />
+                  <value name='[Sweden]' />
+                  <value name='[Switzerland]' />
+                  <value name='[United Kingdom]' />
+                </tag>
+                <groups>
+                  <group name='Pivot Field Values'>
+                    <field name='[Clean coastal water percentage.csv].[Albania]' />
+                    <field name='[Clean coastal water percentage.csv].[Austria]' />
+                    <field name='[Clean coastal water percentage.csv].[Belgium]' />
+                    <field name='[Clean coastal water percentage.csv].[Bulgaria]' />
+                    <field name='[Clean coastal water percentage.csv].[Croatia]' />
+                    <field name='[Clean coastal water percentage.csv].[Cyprus]' />
+                    <field name='[Clean coastal water percentage.csv].[Czechia]' />
+                    <field name='[Clean coastal water percentage.csv].[Denmark]' />
+                    <field name='[Clean coastal water percentage.csv].[Estonia]' />
+                    <field name='[Clean coastal water percentage.csv].[Finland]' />
+                    <field name='[Clean coastal water percentage.csv].[France]' />
+                    <field name='[Clean coastal water percentage.csv].[Germany]' />
+                    <field name='[Clean coastal water percentage.csv].[Greece]' />
+                    <field name='[Clean coastal water percentage.csv].[Hungary]' />
+                    <field name='[Clean coastal water percentage.csv].[Iceland]' />
+                    <field name='[Clean coastal water percentage.csv].[Ireland]' />
+                    <field name='[Clean coastal water percentage.csv].[Italy]' />
+                    <field name='[Clean coastal water percentage.csv].[Kosovo*]' />
+                    <field name='[Clean coastal water percentage.csv].[Latvia]' />
+                    <field name='[Clean coastal water percentage.csv].[Lithuania]' />
+                    <field name='[Clean coastal water percentage.csv].[Luxembourg]' />
+                    <field name='[Clean coastal water percentage.csv].[Malta]' />
+                    <field name='[Clean coastal water percentage.csv].[Montenegro]' />
+                    <field name='[Clean coastal water percentage.csv].[Netherlands]' />
+                    <field name='[Clean coastal water percentage.csv].[North Macedonia]' />
+                    <field name='[Clean coastal water percentage.csv].[Norway]' />
+                    <field name='[Clean coastal water percentage.csv].[Poland]' />
+                    <field name='[Clean coastal water percentage.csv].[Portugal]' />
+                    <field name='[Clean coastal water percentage.csv].[Romania]' />
+                    <field name='[Clean coastal water percentage.csv].[Serbia]' />
+                    <field name='[Clean coastal water percentage.csv].[Slovakia]' />
+                    <field name='[Clean coastal water percentage.csv].[Slovenia]' />
+                    <field name='[Clean coastal water percentage.csv].[Spain]' />
+                    <field name='[Clean coastal water percentage.csv].[Sweden]' />
+                    <field name='[Clean coastal water percentage.csv].[Switzerland]' />
+                    <field name='[Clean coastal water percentage.csv].[United Kingdom]' />
+                  </group>
+                </groups>
+                <relation connection='textscan.0vmftzu0jwuwss159n5lq0eskh7p' name='Clean coastal water percentage.csv' table='[Clean coastal water percentage#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_IN' separator=','>
+                    <column datatype='date' date-parse-format='yyyy' name='TIME' ordinal='0' />
+                    <column datatype='real' name='European Union - 27 countries (from 2020)' ordinal='1' />
+                    <column datatype='string' name='European Union - 28 countries (2013-2020)' ordinal='2' />
+                    <column datatype='real' name='Belgium' ordinal='3' />
+                    <column datatype='real' name='Bulgaria' ordinal='4' />
+                    <column datatype='string' name='Czechia' ordinal='5' />
+                    <column datatype='real' name='Denmark' ordinal='6' />
+                    <column datatype='real' name='Germany' ordinal='7' />
+                    <column datatype='real' name='Estonia' ordinal='8' />
+                    <column datatype='real' name='Ireland' ordinal='9' />
+                    <column datatype='real' name='Greece' ordinal='10' />
+                    <column datatype='real' name='Spain' ordinal='11' />
+                    <column datatype='real' name='France' ordinal='12' />
+                    <column datatype='real' name='Croatia' ordinal='13' />
+                    <column datatype='real' name='Italy' ordinal='14' />
+                    <column datatype='real' name='Cyprus' ordinal='15' />
+                    <column datatype='real' name='Latvia' ordinal='16' />
+                    <column datatype='real' name='Lithuania' ordinal='17' />
+                    <column datatype='string' name='Luxembourg' ordinal='18' />
+                    <column datatype='string' name='Hungary' ordinal='19' />
+                    <column datatype='real' name='Malta' ordinal='20' />
+                    <column datatype='real' name='Netherlands' ordinal='21' />
+                    <column datatype='string' name='Austria' ordinal='22' />
+                    <column datatype='real' name='Poland' ordinal='23' />
+                    <column datatype='real' name='Portugal' ordinal='24' />
+                    <column datatype='real' name='Romania' ordinal='25' />
+                    <column datatype='real' name='Slovenia' ordinal='26' />
+                    <column datatype='string' name='Slovakia' ordinal='27' />
+                    <column datatype='real' name='Finland' ordinal='28' />
+                    <column datatype='real' name='Sweden' ordinal='29' />
+                    <column datatype='string' name='Iceland' ordinal='30' />
+                    <column datatype='string' name='Norway' ordinal='31' />
+                    <column datatype='string' name='Switzerland' ordinal='32' />
+                    <column datatype='string' name='United Kingdom' ordinal='33' />
+                    <column datatype='string' name='Montenegro' ordinal='34' />
+                    <column datatype='string' name='North Macedonia' ordinal='35' />
+                    <column datatype='string' name='Albania' ordinal='36' />
+                    <column datatype='string' name='Serbia' ordinal='37' />
+                    <column datatype='string' name='Kosovo*' ordinal='38' />
+                  </columns>
+                </relation>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Countries with Clean Coastal Water
+</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Clean coastal water percentage' name='federated.03zpsfu1ajgoh41clpxy202lbsmr' />
+          </datasources>
+          <datasource-dependencies datasource='federated.03zpsfu1ajgoh41clpxy202lbsmr'>
+            <column caption='European Countries' datatype='string' name='[Pivot Field Names]' role='dimension' type='nominal' />
+            <column caption='Percentage' datatype='real' name='[Pivot Field Values]' role='dimension' type='ordinal' />
+            <column caption='Date' datatype='date' name='[TIME]' role='dimension' type='quantitative' />
+            <column-instance column='[Pivot Field Values]' derivation='Avg' name='[avg:Pivot Field Values:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Pivot Field Names]' derivation='None' name='[none:Pivot Field Names:nk]' pivot='key' type='nominal' />
+            <column-instance column='[TIME]' derivation='Year-Trunc' name='[tyr:TIME:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[TIME]' derivation='Year-Trunc' name='[tyr:TIME:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='quantitative' column='[federated.03zpsfu1ajgoh41clpxy202lbsmr].[avg:Pivot Field Values:qk]' included-values='non-null' />
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.03zpsfu1ajgoh41clpxy202lbsmr].[none:Pivot Field Names:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.03zpsfu1ajgoh41clpxy202lbsmr].[avg:Pivot Field Values:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.03zpsfu1ajgoh41clpxy202lbsmr].[avg:Pivot Field Values:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='cell-w' value='20' />
+            <format attr='cell-h' value='20' />
+            <format attr='cell' value='20' />
+            <format attr='cell-q' value='100' />
+            <format attr='width' field='[federated.03zpsfu1ajgoh41clpxy202lbsmr].[tyr:TIME:ok]' value='50' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='height-header' value='10' />
+          </style-rule>
+          <style-rule element='mark'>
+            <encoding attr='size-bar' field='[federated.03zpsfu1ajgoh41clpxy202lbsmr].[avg:Pivot Field Values:qk]' field-type='quantitative' max-size='1' min-size='0.005' type='centersize' />
+            <encoding attr='color' field='[federated.03zpsfu1ajgoh41clpxy202lbsmr].[avg:Pivot Field Values:qk]' type='custom-interpolated'>
+              <color-palette custom='true' name='' type='ordered-sequential'>
+                <color>#f1f1f1</color>
+                <color>#e6d9e2</color>
+                <color>#dbc2d3</color>
+                <color>#d0acc5</color>
+                <color>#c598b7</color>
+                <color>#bb85aa</color>
+                <color>#b0739d</color>
+                <color>#a56390</color>
+                <color>#9a5384</color>
+                <color>#8f4578</color>
+                <color>#85396d</color>
+              </color-palette>
+            </encoding>
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.03zpsfu1ajgoh41clpxy202lbsmr].[avg:Pivot Field Values:qk]' />
+              <size column='[federated.03zpsfu1ajgoh41clpxy202lbsmr].[tyr:TIME:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='2' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.03zpsfu1ajgoh41clpxy202lbsmr].[none:Pivot Field Names:nk]</rows>
+        <cols>[federated.03zpsfu1ajgoh41clpxy202lbsmr].[tyr:TIME:ok]</cols>
+      </table>
+      <simple-id uuid='{2439CFC0-3D4C-4D35-85B8-875A3DBA5010}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.25' source-height='37'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.03zpsfu1ajgoh41clpxy202lbsmr].[avg:Pivot Field Values:qk]' type='color' />
+            <card pane-specification-id='0' param='[federated.03zpsfu1ajgoh41clpxy202lbsmr].[tyr:TIME:qk]' type='size' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.03zpsfu1ajgoh41clpxy202lbsmr].[none:Pivot Field Names:nk]</field>
+            <field>[federated.03zpsfu1ajgoh41clpxy202lbsmr].[none:Pivot Field Values:nk]</field>
+            <field>[federated.03zpsfu1ajgoh41clpxy202lbsmr].[tyr:TIME:ok]</field>
+            <field>[federated.03zpsfu1ajgoh41clpxy202lbsmr].[tyr:TIME:qk]</field>
+          </color-one-way>
+        </highlight>
+        <default-map-tool-selection tool='2' />
+      </viewpoint>
+      <simple-id uuid='{DCF1C23E-04E3-4714-B8CD-A31470AA638F}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      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
+      BIqmua0/5jAGAAAAAElFTkSuQmCC
+    </thumbnail>
+  </thumbnails>
+</workbook>
