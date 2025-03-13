@@ -1,12 +1,12 @@
 # Protection of Oceans, Seas, and Marine Resources for Sustainable Development
 
-An analysis of Goal 14 of the United Nations Sustainable Development Goals (SDGs) which focuses on conserving the oceans, seas, and marine resources to ensure their long-term health and sustainability. The oceans incorporate over 70% of the Earth's surface and play an important role in climate regulation, food production, and supporting millions of livelihoods. 
+An analysis of Goal 14 of the United Nations Sustainable Development Goals (SDGs) which focuses on conserving the oceans, seas, and marine resources to ensure their long-term health and sustainability with a major focus on the European Region. The oceans incorporate over 70% of the Earth's surface and play an important role in climate regulation, food production, and supporting millions of livelihoods. 
 Oceans, seas, and coastal areas are crucial parts of our planet. They cover over two-thirds of Earth's surface and hold 97% of its water. Protecting them is essential for our future.
 
 ## Problem
 
 Oceans, seas, and marine resources are increasingly threatened, degraded, or destroyed by human activities, reducing their ability to provide crucial ecosystem services. The benefits provided by oceans, seas and marine resources are important to all people, the poor, indigenous peoples and vulnerable groups. Today we are faced with an ocean emergency with problems such as ocean eutrophication which refers to algal blooms and dead zones in oceans, ocean acidification which is 30% higher than in pre-industrial times, ocean warming, plastic pollution and overfishing. 
-With this study we aim to understand how to best preserve our blue waters as is the need to safeguard the planets largest ecosystem. 
+With this study we aim to understand how to best preserve our blue waters as is the need to safeguard the planets largest ecosystem looking at data generally from the European Region and mostly Euopean Union countries. 
 
 ## Significance of the Study
 
@@ -60,6 +60,12 @@ This study aims to:
 - Content: Data showing the status of fish stock in the European Union Region.
 - Coverage: 2013=2022
 - Scope: European Union Region
+
+4. Clean Water Dataset
+- Source: https://ec.europa.eu/eurostat/databrowser/view/sdg_14_40/default/table?lang=en&category=sdg.sdg_14
+- Content: Data showing areas with clean water.
+- Coverage: 2011-2023
+- Scope: European Union Region.  
     
 ## References
 
@@ -71,4 +77,5 @@ This study aims to:
 
 <a id="4">[4]</a> United Nations. June 21, 2022. 5 reasons you should care about our ocean. United Nations Department of Economic and Social Affairs https://www.un.org/en/desa/5-reasons-you-should-care-about-our-ocean
 
+<a id="5">[5]</a>  Life below water - Sustainable development goals - Eurostat. (n.d.). Eurostat. https://ec.europa.eu/eurostat/web/sdi/database/life-below-water#:~:text=DS%20SDG%20%3E%20Database%20%3E%20SDG%2014%20EN%20REVAMP&text=SDG%2014%20aims%20to%20protect,conserve%20marine%20and%20coastal%20ecosystems
 
