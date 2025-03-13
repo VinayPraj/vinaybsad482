@@ -2,14 +2,14 @@
 
 *By: Vinay Prajapati*
 ## Executive Summary
-Goal 14 of the UN Sustainable Development Goals aims to protect oceans, seas, and marine resources. Oceans cover 70% of Earth, regulating climate, providing food, and supporting jobs. However, pollution, overfishing, habitat loss, and climate change threaten these ecosystems, which many vulnerable communities depend on. Protecting them is crucial for both ecological and economic stability. For this research my focus will be on data from the European Region.
+Goal 14 of the UN Sustainable Development Goals aims to protect oceans, seas, and marine resources. Oceans cover 70% of Earth, regulating climate, providing food, and supporting jobs. However, pollution, overfishing, habitat loss, and climate change threaten these ecosystems, which many vulnerable communities depend on. Protecting them is crucial for both ecological and economic stability.
 
 [Read detailed background](Background.md)
 
 ## Key Performance Indicators
 
 1. Marine Protected Area Coverage Rate
-- This KPI addresses identifies the protected areas based on the region which help to know the most and least protected regions in Europe.
+- This KPI identifies the protected areas based on the region which help to know the most and least protected regions in Europe.
 - Target: To prevent and significantly reduce marine pollution in particular land-based activities by 2025.
 - Frequnecy: Annually 
 
