@@ -31,8 +31,8 @@ Goal 14 of the UN Sustainable Development Goals aims to protect oceans, seas, an
 -  Frequnecy: Annual
 
 6.	Marine Pollution Reduction
--Addressing marine pollution supports the sustainability of fisheries by protecting fish stocks and aquatic habitats, ensuring that fishing communities can thrive economically while maintaining ecological 
-  integrity.
+-Addressing marine pollution supports the sustainability of fisheries by protecting fish stocks and aquatic habitats, ensuring that fishing communities can thrive
+economically while maintaining ecological integrity.
 - The Index of coastal eutrophication; and plastic waste cleaned from oceans.
 - Target: By 2025, prevent and drastically reduce marine pollution of all kinds, especially from land-based activities, such as nutrient pollution and marine 
   debris.
