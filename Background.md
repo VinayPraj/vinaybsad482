@@ -71,11 +71,11 @@ This study aims to:
 
 <a id="1">[1]</a> Goal 14 | Department of Economic and Social Affairs. https://sdgs.un.org/goals/goal14
 
-<a id="2">[2]</a>What is Ocean Acidification?. https://oceanservice.noaa.gov/facts/acidification.html
+<a id="2">[2]</a> What is Ocean Acidification?. https://oceanservice.noaa.gov/facts/acidification.html
 
 <a id="3">[3]</a> Roser, M., & Ritchie, H. (2020, August 20). Life below water – Sustainable Development Goal 14. Our World in Data https://ourworldindata.org/sdgs/life-below-water
 
 <a id="4">[4]</a> United Nations. June 21, 2022. 5 reasons you should care about our ocean. United Nations Department of Economic and Social Affairs https://www.un.org/en/desa/5-reasons-you-should-care-about-our-ocean
 
-<a id="5">[5]</a>  Life below water - Sustainable development goals - Eurostat. (n.d.). Eurostat. https://ec.europa.eu/eurostat/web/sdi/database/life-below-water#:~:text=DS%20SDG%20%3E%20Database%20%3E%20SDG%2014%20EN%20REVAMP&text=SDG%2014%20aims%20to%20protect,conserve%20marine%20and%20coastal%20ecosystems
+<a id="5">[5]</a> Life below water - Sustainable development goals - Eurostat. (n.d.). Eurostat. https://ec.europa.eu/eurostat/web/sdi/database/life-below-water#:~:text=DS%20SDG%20%3E%20Database%20%3E%20SDG%2014%20EN%20REVAMP&text=SDG%2014%20aims%20to%20protect,conserve%20marine%20and%20coastal%20ecosystems
 
