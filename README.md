@@ -76,6 +76,7 @@ As ocean acidity increases over time, fish stocks in both the Atlantic Northeast
 
 The heatmap shows that ocean acidity has increased over time, leading to a decline in fish stocks in the Atlantic Northeast and Mediterranean/Black Sea regions. A strong negative correlation between Year and pH (-1.00) means the ocean is becoming more acidic. Fish stocks are positively correlated with pH (0.94 to 0.78), meaning less acidic water supports more fish. The negative correlation between Year and Fish Stock (-0.96 to -0.75) suggests fish populations are shrinking over time. Lastly, the moderate correlation (0.60) between both regions shows that fish stock changes in one area also affect the other, possibly due to migration or shared environmental conditions.
 
+## Causal Graph
 
 ![Picture](Presentation/fig7.png)
 
